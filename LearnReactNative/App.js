@@ -7,7 +7,7 @@ const App = () => {
   return(
     <SafeAreaView>
       <View>
-        <Text>Hello React</Text>
+        <Text>Hello React나 김근영</Text>
       </View>
     </SafeAreaView>
   );
