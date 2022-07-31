@@ -1,9 +1,9 @@
 /* eslint-disable prettier/prettier */
-import React from "react";
-import { SafeAreaView, View, Text, StylesSheet } from "react-native";
+import React from 'react';
+import {SafeAreaView, View, Text, StyleSheet} from 'react-native';
 
-function App() {
-  return (
+function App(){
+  return(
     <SafeAreaView>
       <View>
         <Text>TodoApp</Text>
@@ -12,6 +12,6 @@ function App() {
   );
 }
 
-const styles = StylesSheet.create({});
+const styles = StyleSheet.create({});
 
 export default App;
