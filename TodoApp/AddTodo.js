@@ -9,7 +9,7 @@ function AddTodo() {
 const styles = StyleSheet.create({
     block: {
         height: 64,
-        backgroundColor: 'red',
+        backgroundColor: 'black',
     },
 });
 
